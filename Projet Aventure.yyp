@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.1100.0.713",
   },
   "name":"Projet Aventure",
   "resources":[
@@ -38,6 +38,7 @@
     {"id":{"name":"O_Chest","path":"objects/O_Chest/O_Chest.yy",},},
     {"id":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},},
     {"id":{"name":"O_Dimitri","path":"objects/O_Dimitri/O_Dimitri.yy",},},
+    {"id":{"name":"O_Maison","path":"objects/O_Maison/O_Maison.yy",},},
     {"id":{"name":"O_MinimapManager","path":"objects/O_MinimapManager/O_MinimapManager.yy",},},
     {"id":{"name":"O_MinimapObjectInGame","path":"objects/O_MinimapObjectInGame/O_MinimapObjectInGame.yy",},},
     {"id":{"name":"O_MinimapObjectInGameSprite","path":"objects/O_MinimapObjectInGameSprite/O_MinimapObjectInGameSprite.yy",},},
@@ -50,6 +51,7 @@
     {"id":{"name":"S_MinimapObject","path":"sprites/S_MinimapObject/S_MinimapObject.yy",},},
     {"id":{"name":"S_Vitefait","path":"sprites/S_Vitefait/S_Vitefait.yy",},},
     {"id":{"name":"S_VitefaitMM","path":"sprites/S_VitefaitMM/S_VitefaitMM.yy",},},
+    {"id":{"name":"tilemap_packed_1","path":"sprites/tilemap_packed_1/tilemap_packed_1.yy",},},
     {"id":{"name":"tilemap_packed","path":"sprites/tilemap_packed/tilemap_packed.yy",},},
     {"id":{"name":"TS_Vole","path":"tilesets/TS_Vole/TS_Vole.yy",},},
   ],
