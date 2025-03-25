@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_Champi",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_MoneyManager",
+  "eventList":[],
   "managed":true,
-  "name":"O_Champi",
+  "name":"O_MoneyManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Manager",
+    "path":"folders/Objects/Manager.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_Champi",
-    "path":"sprites/S_Champi/S_Champi.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

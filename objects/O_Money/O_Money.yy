@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_Chest",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Dimitri","path":"objects/O_Dimitri/O_Dimitri.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_Money",
+  "eventList":[],
   "managed":true,
-  "name":"O_Chest",
+  "name":"O_Money",
   "overriddenProperties":[],
   "parent":{
     "name":"Items",
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_Chest",
-    "path":"sprites/S_Chest/S_Chest.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

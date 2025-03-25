@@ -254,7 +254,7 @@ var l4456CC8D_0;l4456CC8D_0 = keyboard_check_pressed(vk_space);if (l4456CC8D_0
 	/// @DnDArgument : "obj" "O_Champi"
 	/// @DnDArgument : "not" "1"
 	/// @DnDSaveInfo : "obj" "O_Champi"
-	var l7C0AEAA2_0 = false;l7C0AEAA2_0 = instance_exists(O_Champi);if(!l7C0AEAA2_0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	var l7C0AEAA2_0 = false;l7C0AEAA2_0 = instance_exists(O_ActionDetection);if(!l7C0AEAA2_0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1
 		/// @DnDHash : 402A6CF3
 		/// @DnDParent : 7C0AEAA2
@@ -264,7 +264,7 @@ var l4456CC8D_0;l4456CC8D_0 = keyboard_check_pressed(vk_space);if (l4456CC8D_0
 		/// @DnDArgument : "var_temp" "1"
 		/// @DnDArgument : "objectid" "O_Champi"
 		/// @DnDSaveInfo : "objectid" "O_Champi"
-		var champi = instance_create_layer(x+16+champX*16, y+16+champY*16, "Instances", O_Champi);
+		var champi = instance_create_layer(x+16+champX*16, y+16+champY*16, "Instances", O_ActionDetection);
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
