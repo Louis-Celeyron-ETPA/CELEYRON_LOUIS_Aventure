@@ -259,13 +259,12 @@ var l4456CC8D_0;l4456CC8D_0 = keyboard_check_pressed(vk_space);if (l4456CC8D_0
 		/// @DnDHash : 402A6CF3
 		/// @DnDParent : 7C0AEAA2
 		/// @DnDArgument : "xpos" "x+16+champX*16"
-		/// @DnDArgument : "xpos_relative" "1"
 		/// @DnDArgument : "ypos" "y+16+champY*16"
 		/// @DnDArgument : "var" "champi"
 		/// @DnDArgument : "var_temp" "1"
 		/// @DnDArgument : "objectid" "O_Champi"
 		/// @DnDSaveInfo : "objectid" "O_Champi"
-		var champi = instance_create_layer(x + x+16+champX*16, y+16+champY*16, "Instances", O_Champi);
+		var champi = instance_create_layer(x+16+champX*16, y+16+champY*16, "Instances", O_Champi);
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
