@@ -43,8 +43,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Vitefait",
-    "path":"sprites/S_Vitefait/S_Vitefait.yy",
+    "name":"S_AD_Iddle",
+    "path":"sprites/S_AD_Iddle/S_AD_Iddle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
