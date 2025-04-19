@@ -10,8 +10,8 @@
   "name":"O_MinimapObjectInGameSprite",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"MiniMap",
+    "path":"folders/Objects/Manager/MiniMap.yy",
   },
   "parentObjectId":null,
   "persistent":false,

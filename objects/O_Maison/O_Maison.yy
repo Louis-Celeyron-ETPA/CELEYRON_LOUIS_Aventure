@@ -8,8 +8,8 @@
   "name":"O_Maison",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Projet Aventure",
+    "path":"Projet Aventure.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
